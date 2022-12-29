@@ -37,7 +37,7 @@ def name_banner():
     print(color.BOLD + color.BLUE),tprint("\nHASH "),print(color.BOLD + color.YELLOW),tprint("AND "),print(color.BOLD + color.RED),tprint("CRACK\n")
     print(color.END)
     print(color.BOLD + color.GREEN + color.UNDERLINE)
-    print("BY: ABHISHEK RAJ CHAUHAN, ABHISHEK GUPTA, E.SHANMUKA SAINATH, KANUGO KRISHNA GANESH ,RANJANA TARINI R , YENIGANDLA VENISLAUS ASHISH ")
+    print("BY: ABHISHEK RAJ CHAUHAN")
     print(color.END)
     return 0
 
